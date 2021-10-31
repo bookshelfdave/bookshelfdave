@@ -11,7 +11,7 @@
 	- parsing + compilers
 	- math + 3d geometry
 - Remote worker since 2012
-- 💬 Reach out to me if you're looking for a mentor. In particular, I'm looking to use my energy to help BIPOC, Latinx, LGBTQIA+ folks and women in tech. I can be reached at my github username at protonmail.com. I realize that your professional experience won't be the same as mine, but I'd like to help however I can.
+- 💬 Reach out to me if you're looking for a mentor. In particular, I'm looking to use my energy to help BIPOC, Latinx, LGBTQIA+ folks and women in tech. I realize that your professional experience won't be the same as mine, but I'd like to help however I can.
 - 😄 Pronouns: he / him
 - 👯 I’m looking to collaborate on
   - compilers + language runtimes
