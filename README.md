@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+> Note: my Github username changed from metadave to bookshelfdave in late 2021
+
 - I'm interested in:
 	- distributed systems
 	- programming language theory + functional programming
@@ -19,9 +22,7 @@
   - audio / synth stuff
     - I used to [play guitar](https://vimeo.com/259783641)
    
-   
-> My Github username changed from metadave to bookshelfdave in 2021
-   
+      
    
  # Fun projects that I've worked on over the years
 
