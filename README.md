@@ -20,8 +20,10 @@
     - I used to [play guitar](https://vimeo.com/259783641)
    
    
+> My Github username changed from metadave to bookshelfdave in 2021
+   
+   
  # Fun projects that I've worked on over the years
-
 
 ### Habitat
 
@@ -35,6 +37,7 @@
 
 ### Cloud/infra "stuff"
 
+- [223 commits](https://github.com/mozmeao/infra/pulls?q=is%3Apr+is%3Aclosed+author%3Abookshelfdave) as an SRE on the Mozilla Marketing Engineering and Ops team
 - Contributor to the Velero backup tool for Kubernetes (Go)
 	- [Add an `ark bug` command](https://github.com/vmware-tanzu/velero/pull/774)
 - [K8s Secrets Viewer](https://github.com/metadave/ksv)
