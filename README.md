@@ -22,16 +22,6 @@
    
  # Fun projects that I've worked on over the years
 
-### Parsing/language stuff
-
-- [Contributions to Disco](https://github.com/disco-lang/disco/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed), a discrete math teaching language written in Haskell
-  - the largest contribution being https://github.com/disco-lang/disco/pull/230
-  - add [OEIS](https://oeis.org/) support to the Disco language: https://github.com/disco-lang/disco/pull/202
-- [Chef Analytics Rules](https://docs-archive.chef.io/release/analytics/analytics_rules.html), discontinued
-- [JKVC](https://github.com/metadave/JKVC) - Key Value Coding for Java data structures
-- [ETP](https://github.com/metadave/etp): an Erlang Term Parser for Java.
-- [EQL: an Elasticsearch Query Language (experimental)](https://github.com/metadave/eql) 
-- [StringTemplate Object Wrappers](https://github.com/metadave/stow)
 
 ### Habitat
 
@@ -50,6 +40,17 @@
 - [K8s Secrets Viewer](https://github.com/metadave/ksv)
 - [Riemann OCaml Client](https://github.com/metadave/riemann-ocaml-client)
 - Chef Server [RabbitMQ queue monitor](https://github.com/chef/chef-server/pull/570)
+
+### Parsing/language stuff
+
+- [Contributions to Disco](https://github.com/disco-lang/disco/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed), a discrete math teaching language written in Haskell
+  - the largest contribution being https://github.com/disco-lang/disco/pull/230
+  - add [OEIS](https://oeis.org/) support to the Disco language: https://github.com/disco-lang/disco/pull/202
+- [Chef Analytics Rules](https://docs-archive.chef.io/release/analytics/analytics_rules.html), discontinued
+- [JKVC](https://github.com/metadave/JKVC) - Key Value Coding for Java data structures
+- [ETP](https://github.com/metadave/etp): an Erlang Term Parser for Java.
+- [EQL: an Elasticsearch Query Language (experimental)](https://github.com/metadave/eql) 
+- [StringTemplate Object Wrappers](https://github.com/metadave/stow)
 
 ### [Riak](https://en.wikipedia.org/wiki/Riak)
 
