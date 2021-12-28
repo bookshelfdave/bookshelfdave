@@ -28,7 +28,7 @@
 
 ### Habitat
 
-- [102 PR's](https://github.com/habitat-sh/habitat/pulls?q=is%3Apr+author%3Abookshelfdave+is%3Aclosed) against [Habitat](https://habitat.sh)
+- [102 PR's](https://github.com/habitat-sh/habitat/pulls?q=is%3Apr+author%3Abookshelfdave+is%3Aclosed) against [Habitat](https://habitat.sh), mostly Rust
   - a few highlights:
     - [Encryption / decryption support](https://github.com/habitat-sh/habitat/pull/171)
     - [Add artifact sign/verify with libsodium](https://github.com/habitat-sh/habitat/pull/357)
@@ -38,7 +38,7 @@
 
 ### Cloud/infra "stuff"
 
-- [223 commits](https://github.com/mozmeao/infra/pulls?q=is%3Apr+is%3Aclosed+author%3Abookshelfdave) as an SRE on the Mozilla Marketing Engineering and Ops (MozMEAO) team
+- [223 commits](https://github.com/mozmeao/infra/pulls?q=is%3Apr+is%3Aclosed+author%3Abookshelfdave) as an SRE on the Mozilla Marketing Engineering and Ops (MozMEAO) team (Terraform, Python, Ansible, K8s)
   - This team hosted [www.mozilla.org](https://www.mozilla.org), [developer.mozilla.org](https://developer.mozilla.org), [careers.mozilla.org](https://careers.mozilla.org) along with other Mozilla services and sites.
 - Contributor to the Velero backup tool for Kubernetes (Go)
 	- [Add an `ark bug` command](https://github.com/vmware-tanzu/velero/pull/774)
@@ -70,11 +70,11 @@
 
 ### Misc
 
-- [Wings3d Collada export plugin](https://github.com/bjorng/wings/blob/master/plugins_src/import_export/wpc_collada.erl)
-- [Elasticsearch nodeattrs API enhancements](https://github.com/elastic/elasticsearch/pull/12534)
-- [EduFS](https://github.com/bookshelfdave/edufs): learning FreeBSD filesystem and kernel internals
-- [Implement profile signing and verification for Chef Inspec](https://github.com/inspec/inspec/pull/1228)
-- [Racket Neo4j client](https://github.com/bookshelfdave/neo4j.rkt)
+- [Wings3d Collada export plugin](https://github.com/bjorng/wings/blob/master/plugins_src/import_export/wpc_collada.erl) (Erlang)
+- [Elasticsearch nodeattrs API enhancements](https://github.com/elastic/elasticsearch/pull/12534) (Java)
+- [EduFS](https://github.com/bookshelfdave/edufs): learning FreeBSD filesystem and kernel internals (C)
+- [Implement profile signing and verification for Chef Inspec](https://github.com/inspec/inspec/pull/1228) (Ruby)
+- [Racket Neo4j client](https://github.com/bookshelfdave/neo4j.rkt) (Racket)
 - [Flux32](https://github.com/bookshelfdave/FluxModeler) C++/Qt/Python half-edge 3d modeling thing, mostly collision detection of verts/edges/faces. 
 - [obj2json](https://github.com/bookshelfdave/obj2json) 3d .obj -> .json converter written in Haskell
 
