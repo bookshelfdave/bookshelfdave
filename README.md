@@ -41,10 +41,11 @@
 - [223 commits](https://github.com/mozmeao/infra/pulls?q=is%3Apr+is%3Aclosed+author%3Abookshelfdave) as an SRE on the Mozilla Marketing Engineering and Ops (MozMEAO) team (Terraform, Python, Ansible, K8s)
   - This team hosted [www.mozilla.org](https://www.mozilla.org), [developer.mozilla.org](https://developer.mozilla.org), [careers.mozilla.org](https://careers.mozilla.org) along with other Mozilla services and sites.
 - Contributor to the Velero backup tool for Kubernetes (Go)
-	- [Add an `ark bug` command](https://github.com/vmware-tanzu/velero/pull/774)
-- [K8s Secrets Viewer](https://github.com/bookshelfdave/ksv)
+	- [Add an `ark bug` command](https://github.com/vmware-tanzu/velero/pull/774) (Go)
+- [K8s Secrets Viewer](https://github.com/bookshelfdave/ksv) (Go)
+  - and a [version of ksv written in Python](https://github.com/bookshelfdave/ksv.py)
 - [Riemann OCaml Client](https://github.com/bookshelfdave/riemann-ocaml-client)
-- Chef Server [RabbitMQ queue monitor](https://github.com/chef/chef-server/pull/570)
+- Chef Server [RabbitMQ queue monitor](https://github.com/chef/chef-server/pull/570) (Erlang / Chef)
 
 ### Parsing/language stuff
 
@@ -54,8 +55,8 @@
 - [Chef Analytics Rules](https://docs-archive.chef.io/release/analytics/analytics_rules.html), discontinued (Java, Antlr, Apache Storm)
 - [JKVC](https://github.com/bookshelfdave/JKVC) - Key Value Coding for Java data structures
 - [ETP](https://github.com/bookshelfdave/etp): an Erlang Term Parser for Java.
-- [EQL: an Elasticsearch Query Language (experimental)](https://github.com/bookshelfdave/eql) 
-- [StringTemplate Object Wrappers](https://github.com/bookshelfdave/stow)
+- [EQL: an Elasticsearch Query Language (experimental)](https://github.com/bookshelfdave/eql) (Java/Antlr)
+- [StringTemplate Object Wrappers](https://github.com/bookshelfdave/stow) (Java/Antlr)
 
 ### [Riak](https://en.wikipedia.org/wiki/Riak)
 
@@ -65,7 +66,7 @@
 - [Riak OCaml client](https://github.com/bookshelfdave/riak-ocaml-client)
 - 89 PR's against [Riak multi datacenter replication (MDC)](https://github.com/basho/riak_repl/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed)
   - Riak MDC replication ["proxy get"](https://github.com/basho/riak_repl/pull/75)
-- [Contact](https://github.com/bookshelfdave/contact): a query language and interactive shell for Riak.
+- [Contact](https://github.com/bookshelfdave/contact): a query language and interactive shell for Riak. (Java/Antlr/Javascript via Rhino)
 
 
 ### Misc
