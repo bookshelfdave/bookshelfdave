@@ -78,6 +78,6 @@
 - [EduFS](https://github.com/bookshelfdave/edufs): learning FreeBSD filesystem and kernel internals (C / FreeBSD Kernel stuff)
 - [Racket Neo4j client](https://github.com/bookshelfdave/neo4j.rkt) (Racket)
 - [Flux3d](https://github.com/bookshelfdave/FluxModeler) C++/Qt/Python half-edge 3d model viewer, mostly collision detection of verts/edges/faces, triangulation, etc. 
-  - I [embedded a Python interpreter into Flux3d](https://github.com/bookshelfdave/FluxModeler/tree/python_dead) to add scripting support
+  - I [embedded a Python interpreter into Flux3d](https://github.com/bookshelfdave/FluxModeler/blob/python_dead/src/FluxCore.cpp#L690) to add scripting support
 - [obj2json](https://github.com/bookshelfdave/obj2json) 3d .obj -> .json converter written in Haskell
 
