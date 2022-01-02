@@ -23,8 +23,9 @@
     - I [play guitar](https://vimeo.com/259783641) here and there, although not as much as I used to.
    
       
-   
- # Fun projects that I've worked on over the years <a name="portfolio"></a>A
+<a name="portfolio"></a>
+
+# Fun projects that I've worked on over the years 
 
 ### Habitat
 
