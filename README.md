@@ -42,8 +42,8 @@
   - This team hosted [www.mozilla.org](https://www.mozilla.org), [developer.mozilla.org](https://developer.mozilla.org), [careers.mozilla.org](https://careers.mozilla.org) along with other Mozilla services and sites.
 - Contributor to the Velero backup tool for Kubernetes (Go)
 	- [Add an `ark bug` command](https://github.com/vmware-tanzu/velero/pull/774)
-- [K8s Secrets Viewer](https://github.com/bookshelf/ksv)
-- [Riemann OCaml Client](https://github.com/bookshelf/riemann-ocaml-client)
+- [K8s Secrets Viewer](https://github.com/bookshelfdave/ksv)
+- [Riemann OCaml Client](https://github.com/bookshelfdave/riemann-ocaml-client)
 - Chef Server [RabbitMQ queue monitor](https://github.com/chef/chef-server/pull/570)
 
 ### Parsing/language stuff
@@ -52,10 +52,10 @@
   - the largest contribution being https://github.com/disco-lang/disco/pull/230
   - add [OEIS](https://oeis.org/) support to the Disco language: https://github.com/disco-lang/disco/pull/202
 - [Chef Analytics Rules](https://docs-archive.chef.io/release/analytics/analytics_rules.html), discontinued (Java, Antlr, Apache Storm)
-- [JKVC](https://github.com/bookshelf/JKVC) - Key Value Coding for Java data structures
-- [ETP](https://github.com/bookshelf/etp): an Erlang Term Parser for Java.
-- [EQL: an Elasticsearch Query Language (experimental)](https://github.com/bookshelf/eql) 
-- [StringTemplate Object Wrappers](https://github.com/bookshelf/stow)
+- [JKVC](https://github.com/bookshelfdave/JKVC) - Key Value Coding for Java data structures
+- [ETP](https://github.com/bookshelfdave/etp): an Erlang Term Parser for Java.
+- [EQL: an Elasticsearch Query Language (experimental)](https://github.com/bookshelfdave/eql) 
+- [StringTemplate Object Wrappers](https://github.com/bookshelfdave/stow)
 
 ### [Riak](https://en.wikipedia.org/wiki/Riak)
 
