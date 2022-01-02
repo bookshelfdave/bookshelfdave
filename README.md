@@ -30,11 +30,11 @@
 
 - [102 PR's](https://github.com/habitat-sh/habitat/pulls?q=is%3Apr+author%3Abookshelfdave+is%3Aclosed) against [Habitat](https://habitat.sh), mostly Rust
   - a few highlights:
-    - [Encryption / decryption support](https://github.com/habitat-sh/habitat/pull/171)
-    - [Add artifact sign/verify with libsodium](https://github.com/habitat-sh/habitat/pull/357)
     - [Add encrypted file upload to gossip ring](https://github.com/habitat-sh/habitat/pull/452)
+    - [Add artifact sign/verify with libsodium](https://github.com/habitat-sh/habitat/pull/357)
     - [Habitat Director](https://github.com/habitat-sh/habitat/pull/541)
-  - and [a patent](http://bit.ly/habitat-uspto) as well! 
+    - [Encryption / decryption support](https://github.com/habitat-sh/habitat/pull/171)
+- and [a patent](http://bit.ly/habitat-uspto) as well! 
 
 ### Cloud/infra "stuff"
 
