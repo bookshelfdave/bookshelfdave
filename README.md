@@ -42,7 +42,7 @@
   - This team hosted [www.mozilla.org](https://www.mozilla.org), [developer.mozilla.org](https://developer.mozilla.org), [careers.mozilla.org](https://careers.mozilla.org) along with other Mozilla services and sites.
 - Contributor to the Velero backup tool for Kubernetes (Go)
 	- [Add an `ark bug` command](https://github.com/vmware-tanzu/velero/pull/774) (Go)
-- [K8s Secrets Viewer](https://github.com/bookshelfdave/ksv) (Go)
+- [ksv: K8s Secrets Viewer](https://github.com/bookshelfdave/ksv) (Go)
   - and a [version of ksv written in Python](https://github.com/bookshelfdave/ksv.py)
 - [Riemann OCaml Client](https://github.com/bookshelfdave/riemann-ocaml-client)
 - Chef Server [RabbitMQ queue monitor](https://github.com/chef/chef-server/pull/570) (Erlang / Chef)
