@@ -5,12 +5,12 @@
 - I'm interested in:
 	- distributed systems
 	- programming language theory + functional programming
-	- operating system internals
+	- everything compilers!
 	- infrastructure automation
 	- diversity + inclusion + equity
 	- polyglot software development
-	  - I ♥️ Haskell, Erlang, F#, OCaml / SMLNJ, Racket, Idris, C, Rust
-	  - I use Bash, Python, Terraform, Go, Ruby, Swift, C++, Java, etc.
+	  - I use Rust, C, Bash, Python, Terraform, Go, Ruby, Swift, C++, Java, etc.
+	  - I ♥️ Haskell, Erlang, F#, OCaml / SMLNJ
 	- parsing + compilers
 	- math + 3d geometry
 - Remote worker since 2012
