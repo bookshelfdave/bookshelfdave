@@ -46,6 +46,8 @@
   - and a [version of ksv written in Python](https://github.com/bookshelfdave/ksv.py)
 - [Riemann OCaml Client](https://github.com/bookshelfdave/riemann-ocaml-client)
 - Chef Server [RabbitMQ queue monitor](https://github.com/chef/chef-server/pull/570) (Erlang / Chef)
+- [Implement profile signing and verification for Chef Inspec](https://github.com/inspec/inspec/pull/1228) (Ruby)
+
 
 ### Parsing/language stuff
 
@@ -73,9 +75,9 @@
 
 - [Wings3d Collada export plugin](https://github.com/bjorng/wings/blob/master/plugins_src/import_export/wpc_collada.erl) (Erlang)
 - [Elasticsearch nodeattrs API enhancements](https://github.com/elastic/elasticsearch/pull/12534) (Java)
-- [EduFS](https://github.com/bookshelfdave/edufs): learning FreeBSD filesystem and kernel internals (C)
-- [Implement profile signing and verification for Chef Inspec](https://github.com/inspec/inspec/pull/1228) (Ruby)
+- [EduFS](https://github.com/bookshelfdave/edufs): learning FreeBSD filesystem and kernel internals (C / FreeBSD Kernel stuff)
 - [Racket Neo4j client](https://github.com/bookshelfdave/neo4j.rkt) (Racket)
-- [Flux32](https://github.com/bookshelfdave/FluxModeler) C++/Qt/Python half-edge 3d modeling thing, mostly collision detection of verts/edges/faces. 
+- [Flux3d](https://github.com/bookshelfdave/FluxModeler) C++/Qt/Python half-edge 3d model viewer, mostly collision detection of verts/edges/faces, triangulation, etc. 
+  - I [embedded a Python interpreter into Flux3d](https://github.com/bookshelfdave/FluxModeler/tree/python_dead) to add scripting support
 - [obj2json](https://github.com/bookshelfdave/obj2json) 3d .obj -> .json converter written in Haskell
 
