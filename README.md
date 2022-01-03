@@ -27,6 +27,10 @@
 
 # Fun projects that I've worked on over the years 
 
+- [Mars 2020 Helicopter Contributor](https://github.com/readme/featured/nasa-ingenuity-helicopter)
+  - A badge appears under my Github profile picture
+  - [my contributions to Elasicsearch](https://github.com/elastic/elasticsearch/pull/12534)
+
 ### Habitat
 
 - [102 PR's](https://github.com/habitat-sh/habitat/pulls?q=is%3Apr+author%3Abookshelfdave+is%3Aclosed) against [Habitat](https://habitat.sh), mostly Rust
