@@ -20,7 +20,7 @@
   - compilers + language runtimes
   - cloud infrastructure tooling
   - audio / synth stuff
-    - I [play guitar](https://vimeo.com/259783641) here and there, although not as much as I used to.
+    - I [play](https://vimeo.com/259783641) [guitar](https://vimeo.com/686513948) here and there, although not as much as I used to.
    
       
 <a name="portfolio"></a>
