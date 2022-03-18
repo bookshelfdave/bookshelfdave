@@ -31,6 +31,14 @@
   - A badge appears under my Github profile picture
   - [my contributions to Elasicsearch](https://github.com/elastic/elasticsearch/pull/12534)
 
+### Books that I've had reviewed (and have been credited)
+
+- [Haskell (Almost) Standard Libraries](https://leanpub.com/haskell-stdlibs/), by Alejandro Serrano Mena
+	- https://twitter.com/trupill/status/1504823957429661705
+- [7 Databases in 7 Weeks, second edition](https://7dbs.io/) by By Luc Perkins, Eric Redmond, and Jim Wilson
+- [The Design And Implementation Of The Freebsd Operating System 1st Edition](), by Marshall Kirk McKusick and George V. Neville-Neil 
+
+
 ### Habitat
 
 - [102 PR's](https://github.com/habitat-sh/habitat/pulls?q=is%3Apr+author%3Abookshelfdave+is%3Aclosed) against [Habitat](https://habitat.sh), mostly Rust
