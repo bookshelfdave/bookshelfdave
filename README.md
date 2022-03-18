@@ -31,7 +31,7 @@
   - A badge appears under my Github profile picture
   - [my contributions to Elasicsearch](https://github.com/elastic/elasticsearch/pull/12534)
 
-### Books that I've had reviewed (and have been credited)
+### Books that I've reviewed (and am credited for)
 
 - [Haskell (Almost) Standard Libraries](https://leanpub.com/haskell-stdlibs/), by Alejandro Serrano Mena
 	- https://twitter.com/trupill/status/1504823957429661705
