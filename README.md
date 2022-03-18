@@ -34,7 +34,7 @@
 ### Books that I've reviewed (and am credited for)
 
 - [Haskell (Almost) Standard Libraries](https://leanpub.com/haskell-stdlibs/), by Alejandro Serrano Mena
-	- [additional shout out :-)](https://twitter.com/trupill/status/1504823957429661705)
+	- additional [shout out)](https://twitter.com/trupill/status/1504823957429661705) from the author :-)
 - [7 Databases in 7 Weeks, second edition](https://7dbs.io/) by By Luc Perkins, Eric Redmond, and Jim Wilson
 - [The Design And Implementation Of The Freebsd Operating System 1st Edition](), by Marshall Kirk McKusick and George V. Neville-Neil 
 
