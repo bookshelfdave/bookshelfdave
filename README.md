@@ -5,16 +5,15 @@
 - I'm interested in:
 	- distributed systems
 	- programming language theory + functional programming
-	- everything compilers!
+	- parsing + compilers
 	- infrastructure automation
 	- diversity + inclusion + equity
 	- polyglot software development
 	  - I use Rust, C, Bash, Python, Terraform, Go, Ruby, Swift, C++, Java, etc.
 	  - I ♥️ Haskell, Erlang, F#, OCaml / SMLNJ
-	- parsing + compilers
 	- math + 3d geometry
 - Remote worker since 2012
-- 💬 Reach out to me if you're looking for a mentor. In particular, I'm looking to use my energy to help BIPOC, Latinx, LGBTQIA+ folks and women in tech. I realize that your professional experience won't be the same as mine, but I'd like to help however I can.
+- 💬 If you're based in the US or Canada, feel free to reach out to me if you're looking for a mentor/sponsor. In particular, I'm looking to use my energy to help under represented minorities (Black, Latinx, LGBTQIA+ folks, women in tech). I realize that your professional experience won't be the same as mine, but I'd like to help however I can.
 - 😄 Pronouns: he / him
 - 👯 I’m looking to collaborate on
   - compilers + language runtimes
@@ -33,7 +32,7 @@
 
 ### Books that I've reviewed (and am credited for)
 
-- [Haskell (Almost) Standard Libraries](https://leanpub.com/haskell-stdlibs/), by Alejandro Serrano Mena
+- [Haskell (Almost) Standard Libraries](https://leanpub.com/haskell-stdlibs/), by Alejandro Serrano Mena / March 2022
 	- additional [shout out](https://twitter.com/trupill/status/1504823957429661705) from the author :-)
 - [7 Databases in 7 Weeks, second edition](https://7dbs.io/) by By Luc Perkins, Eric Redmond, and Jim Wilson
 - [The Design And Implementation Of The Freebsd Operating System 1st Edition](https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0201702452/ref=sr_1_2?keywords=the+design+and+implementation+of+the+freebsd+operating+system&qid=1647620400&s=books&sprefix=the+design+and+implemenat%2Cstripbooks%2C68&sr=1-2), by Marshall Kirk McKusick and George V. Neville-Neil 
