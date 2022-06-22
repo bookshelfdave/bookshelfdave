@@ -7,7 +7,7 @@
 	- programming language theory + functional programming
 	- parsing + compilers
 	- infrastructure automation
-	- diversity + inclusion + equity
+	- diversity + inclusion + equity. If you're based in the US or Canada, feel free to reach out to me if you're looking for a mentor/sponsor. In particular, I'm looking to use my energy to help under represented minorities (Black, Latinx, LGBTQIA+ folks, women in tech). I realize that your professional experience won't be the same as mine, but I'd like to help however I can.
 	- polyglot software development
 	  - I use Rust, C, Bash, Python, Terraform, Go, Ruby, Swift, C++, Java, etc.
 	  - I ♥️ Haskell, Erlang, F#, OCaml / SMLNJ
