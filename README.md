@@ -77,7 +77,7 @@
 - [Riak R client](https://github.com/bookshelfdave/riak-r-client)
 	- original author, although the client changed a bit
 - [Riak OCaml client](https://github.com/bookshelfdave/riak-ocaml-client)
-- 89 PR's against [Riak multi datacenter replication (MDC)](https://github.com/basho/riak_repl/pulls?q=is%3Apr+author%3Abookshelfdave+is%3Aclosed)
+- [89 PR's](https://github.com/basho/riak_repl/pulls?q=is%3Apr+author%3Abookshelfdave+is%3Aclosed) against Riak multi datacenter replication (MDC)
   - Riak MDC replication ["proxy get"](https://github.com/basho/riak_repl/pull/75)
 - [Contact](https://github.com/bookshelfdave/contact): a query language and interactive shell for Riak. (Java/Antlr/Javascript via Rhino)
 
