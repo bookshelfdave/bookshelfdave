@@ -45,7 +45,7 @@
     - [Add artifact sign/verify with libsodium](https://github.com/habitat-sh/habitat/pull/357)
     - [Habitat Director](https://github.com/habitat-sh/habitat/pull/541)
     - [Encryption / decryption support](https://github.com/habitat-sh/habitat/pull/171)
-- and [a patent](http://bit.ly/habitat-uspto) as well! 
+- and [a patent](https://www.uspto.report/patent/app/20170351868) as well! 
 
 ### Cloud/infra "stuff"
 
