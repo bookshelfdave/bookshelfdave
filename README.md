@@ -2,7 +2,7 @@
 
 > Note: my Github username changed from metadave to bookshelfdave in late 2021
 
-I'm a software engineer based in Buffalo, NY. Over the past decade, I have helped to ship [Firefox](https://www.mozilla.org/en-US/firefox/new/), the [Terraform Plugin Framework](https://www.hashicorp.com/blog/terraform-plugin-framework-is-now-generally-available), [Riak Multi Data Center Replication](https://docs.riak.com/riak/kv/latest/using/cluster-operations/v3-multi-datacenter/index.html), [Chef Server](https://github.com/chef/chef-server/), [Chef Analytics](https://www.chef.io/blog/meet-the-chef-analytics-platform) and [Habitat](https://community.chef.io/tools/chef-habitat).
+I'm a software engineer based in Buffalo, NY. Over the past decade, I have helped ship [Firefox](https://www.mozilla.org/en-US/firefox/new/), the [Terraform Plugin Framework](https://www.hashicorp.com/blog/terraform-plugin-framework-is-now-generally-available), [Riak Multi Data Center Replication](https://docs.riak.com/riak/kv/latest/using/cluster-operations/v3-multi-datacenter/index.html), [Chef Server](https://github.com/chef/chef-server/), [Chef Analytics](https://www.chef.io/blog/meet-the-chef-analytics-platform) and [Habitat](https://community.chef.io/tools/chef-habitat).
 
 - I'm interested in:
 	- distributed systems
