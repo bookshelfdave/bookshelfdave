@@ -2,7 +2,7 @@
 
 > Note: my Github username changed from metadave to bookshelfdave in late 2021
 
-I'm a software engineer based in Buffalo, NY. Over the past decade, I have helped ship [Firefox](https://www.mozilla.org/en-US/firefox/new/), the [Terraform Plugin Framework](https://www.hashicorp.com/blog/terraform-plugin-framework-is-now-generally-available), [Riak Multi Data Center Replication](https://docs.riak.com/riak/kv/latest/using/cluster-operations/v3-multi-datacenter/index.html), [Chef Server](https://github.com/chef/chef-server/), [Chef Analytics](https://www.chef.io/blog/meet-the-chef-analytics-platform) and [Habitat](https://community.chef.io/tools/chef-habitat).
+I'm a software engineer based in Buffalo, NY. Over the past decade, I have helped ship [Firefox](https://www.mozilla.org/en-US/firefox/new/), the [Terraform Plugin Framework](https://www.hashicorp.com/blog/terraform-plugin-framework-is-now-generally-available), [Chef Server](https://github.com/chef/chef-server/), [Chef Analytics](https://www.chef.io/blog/meet-the-chef-analytics-platform), [Habitat](https://community.chef.io/tools/chef-habitat) and [Riak Multi Data Center Replication](https://docs.riak.com/riak/kv/latest/using/cluster-operations/v3-multi-datacenter/index.html).
 
 - I'm interested in:
 	- distributed systems
@@ -63,7 +63,7 @@ I'm a software engineer based in Buffalo, NY. Over the past decade, I have helpe
 
 
 ### Parsing/language stuff
-- I added [support for scientific notation](https://github.com/gleam-lang/gleam/pull/1903) to the [Gleam programming language](https://gleam.run/).
+- I added [support for scientific notation](https://github.com/gleam-lang/gleam/pull/1903) to the [Gleam programming language](https://gleam.run/) (Dec 2022).
 - [Contributions to Disco](https://github.com/disco-lang/disco/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed), a discrete math teaching language written in Haskell
   - the largest contribution being https://github.com/disco-lang/disco/pull/230
   - add [OEIS](https://oeis.org/) support to the Disco language: https://github.com/disco-lang/disco/pull/202
