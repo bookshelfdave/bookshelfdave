@@ -9,7 +9,7 @@ I'm a software engineer based in Buffalo, NY. Over the past decade, I have helpe
 	- programming language theory + functional programming
 	- parsing + compilers
 	- infrastructure automation
-	- diversity + inclusion + equity. If you're based in the US or Canada, feel free to reach out to me if you're looking for a mentor/sponsor. In particular, I'm looking to use my energy to help under represented minorities (in no particular order: Black, Latinx, LGBTQIA+ folks, women in tech). I realize that your professional experience won't be the same as mine, but I'd like to help however I can.
+	- diversity + inclusion + equity
 	- polyglot software development
 	  - I use Rust, C, Python, Terraform, Go, Ruby, Swift, C++ etc.
 	  - I ♥️ Haskell, Erlang, F#, OCaml / SMLNJ
