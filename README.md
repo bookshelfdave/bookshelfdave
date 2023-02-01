@@ -11,7 +11,7 @@ I'm a software engineer based in Buffalo, NY. Over the past decade, I have helpe
 	- infrastructure automation
 	- diversity + inclusion + equity
 	- polyglot software development
-	  - I use Rust, C, Python, Terraform, Go, Ruby, Swift, C++ etc.
+	  - I use Rust, C, Python, Terraform, C#, Go, Ruby, Swift, C++ etc.
 	  - I ♥️ Haskell, Erlang, F#, OCaml / SMLNJ
 	- math + 3d geometry
 - Remote worker since 2012
