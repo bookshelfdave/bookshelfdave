@@ -2,7 +2,7 @@
 
 > Note: my Github username changed from metadave to bookshelfdave in late 2021
 
-I'm a software engineer based in Buffalo, NY. Over the past decade, I have helped ship [Firefox](https://www.mozilla.org/en-US/firefox/new/), the [Terraform Plugin Framework](https://www.hashicorp.com/blog/terraform-plugin-framework-is-now-generally-available), [Chef Server](https://github.com/chef/chef-server/), [Chef Analytics](https://www.chef.io/blog/meet-the-chef-analytics-platform), [Habitat](https://community.chef.io/tools/chef-habitat) and [Riak Multi Data Center Replication](https://docs.riak.com/riak/kv/latest/using/cluster-operations/v3-multi-datacenter/index.html).
+I'm a software engineer based in Buffalo, NY. I helped ship [Firefox](https://www.mozilla.org/en-US/firefox/new/), the [Terraform Plugin Framework](https://www.hashicorp.com/blog/terraform-plugin-framework-is-now-generally-available), [Chef Server](https://github.com/chef/chef-server/), [Chef Analytics](https://www.chef.io/blog/meet-the-chef-analytics-platform), [Habitat](https://community.chef.io/tools/chef-habitat), VLC compiler and Varnish projects at Fastly, and [Riak Multi Data Center Replication](https://docs.riak.com/riak/kv/latest/using/cluster-operations/v3-multi-datacenter/index.html).
 
 - I'm interested in:
 	- distributed systems
@@ -12,7 +12,7 @@ I'm a software engineer based in Buffalo, NY. Over the past decade, I have helpe
 	- diversity + inclusion + equity
 	- polyglot software development
 	  - I use Rust, C, Python, Terraform, C#, Go, Ruby, Swift, C++ etc.
-	  - I ♥️ Haskell, Erlang, F#, OCaml / SMLNJ
+	  - I ♥️ Haskell, Erlang, F#, OCaml
 	- math + 3d geometry
 - Remote worker since 2012
 - 😄 Pronouns: he / him
