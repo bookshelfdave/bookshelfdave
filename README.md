@@ -2,7 +2,7 @@
 
 > Note: my Github username changed from metadave to bookshelfdave in late 2021
 
-I'm currently a Principal Lead Software Engineer at [Akamai](https://www.akamai.com/) ([Linode](https://www.linode.com/)), working on Linode orchestration software (all closed source). I helped ship [Firefox](https://www.mozilla.org/en-US/firefox/new/), the [Terraform Plugin Framework](https://www.hashicorp.com/blog/terraform-plugin-framework-is-now-generally-available), [Chef Server](https://github.com/chef/chef-server/), [Chef Analytics](https://www.chef.io/blog/meet-the-chef-analytics-platform), [Habitat](https://community.chef.io/tools/chef-habitat), VLC compiler and Varnish projects at [Fastly](https://www.fastly.com/), and [Riak Multi Data Center Replication](https://docs.riak.com/riak/kv/latest/using/cluster-operations/v3-multi-datacenter/index.html). 
+I'm currently a Principal Lead Software Engineer at [Akamai](https://www.akamai.com/) ([Linode](https://www.linode.com/)), working on Linode orchestration software (all closed source). I helped ship [Firefox](https://www.mozilla.org/en-US/firefox/new/) ([1](https://www.mozilla.org/credits/)), the [Terraform Plugin Framework](https://www.hashicorp.com/blog/terraform-plugin-framework-is-now-generally-available), [Chef Server](https://github.com/chef/chef-server/), [Chef Analytics](https://www.chef.io/blog/meet-the-chef-analytics-platform), [Habitat](https://community.chef.io/tools/chef-habitat), VLC compiler and Varnish projects at [Fastly](https://www.fastly.com/), and [Riak Multi Data Center Replication](https://docs.riak.com/riak/kv/latest/using/cluster-operations/v3-multi-datacenter/index.html). 
 
 - I'm interested in:
 	- distributed systems
