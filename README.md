@@ -10,8 +10,8 @@ I'm currently a Principal Lead Software Engineer at [Akamai](https://www.akamai.
 	- parsing + compilers
 	- infrastructure automation
 	- polyglot software development
-	  - I use Rust, C, Python, Terraform, C#, Go, Ruby, Swift, C++ etc.
-	  - I ♥️ Haskell, Erlang, F#, OCaml
+	  - I use C, Python, Terraform, C#, Go, Ruby, Swift, C++ etc.
+	  - I ♥️ Rust, Haskell, Erlang, F#, OCaml
 	- math + 3d geometry
 - Remote worker since 2012
 - 😄 Pronouns: he / him
