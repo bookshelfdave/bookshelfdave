@@ -9,7 +9,6 @@ I'm currently a Principal Lead Software Engineer at [Akamai](https://www.akamai.
 	- programming language theory + functional programming
 	- parsing + compilers
 	- infrastructure automation
-	- diversity + inclusion + equity
 	- polyglot software development
 	  - I use Rust, C, Python, Terraform, C#, Go, Ruby, Swift, C++ etc.
 	  - I ♥️ Haskell, Erlang, F#, OCaml
