@@ -11,14 +11,14 @@ I'm currently a Principal Lead Software Engineer at [Akamai](https://www.akamai.
 	- infrastructure automation
 	- polyglot software development
 	  - I use C, Python, Terraform, C#, Go, Ruby, Swift, C++ etc.
-	  - I ♥️ Rust, Haskell, Erlang, F#, OCaml
+	  - I ♥️ Rust, Haskell, Erlang, F#, OCaml, Racket, etc.
 	- math + 3d geometry
 - Remote worker since 2012
 - 👯 I’m looking to collaborate on
   - compilers + language runtimes
   - cloud infrastructure tooling
   - audio / synth stuff
-    - I [play](https://vimeo.com/259783641) [guitar](https://vimeo.com/686513948) here and there, although not as much as I used to.
+    - I [play](https://vimeo.com/259783641) [guitar](https://vimeo.com/686513948), although I am not a performer.
    
       
 <a name="portfolio"></a>
