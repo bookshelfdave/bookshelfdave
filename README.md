@@ -32,7 +32,6 @@ I'm currently a Principal Lead Software Engineer at [Akamai](https://www.akamai.
 ### Books that I've reviewed (and am credited for)
 
 - [Haskell (Almost) Standard Libraries](https://leanpub.com/haskell-stdlibs/), by Alejandro Serrano Mena (March 2022)
-	- additional [shout out](https://twitter.com/trupill/status/1504823957429661705) from the author :-)
 - [7 Databases in 7 Weeks, second edition](https://7dbs.io/) by By Luc Perkins, Eric Redmond, and Jim Wilson
 - [The Design And Implementation Of The Freebsd Operating System 1st Edition](https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0201702452/ref=sr_1_2?keywords=the+design+and+implementation+of+the+freebsd+operating+system&qid=1647620400&s=books&sprefix=the+design+and+implemenat%2Cstripbooks%2C68&sr=1-2), by Marshall Kirk McKusick and George V. Neville-Neil 
 
