@@ -47,7 +47,7 @@ I'm currently a Principal Lead Software Engineer at [Akamai](https://www.akamai.
     - [Encryption / decryption support](https://github.com/habitat-sh/habitat/pull/171)
 - and [a patent](https://www.uspto.report/patent/app/20170351868) as well! 
 
-### Cloud/infra "stuff"
+### Cloud/infra "stuff" (K8s, Chef, etc)
 
 - [223 commits](https://github.com/mozmeao/infra/pulls?q=is%3Apr+is%3Aclosed+author%3Abookshelfdave) as an SRE on the Mozilla Marketing Engineering and Ops (MozMEAO) team (Terraform, Python, Ansible, K8s)
   - This team hosted [www.mozilla.org](https://www.mozilla.org), [developer.mozilla.org](https://developer.mozilla.org), [careers.mozilla.org](https://careers.mozilla.org) along with other Mozilla services and sites.
